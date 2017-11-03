@@ -28,7 +28,7 @@ export CLIENT_ID=HugeCR4zyV4luesTh3yW1!!g1veU
 # Using yarn
 yarn add hubot-clarifai
 # Or with npm
-npm install --save hubot-clarifai
+npm install --save https://github.com/gfax/hubot-clarifai.git
 ```
 
 4. Then add **hubot-clarifai** to your `external-scripts.json`:

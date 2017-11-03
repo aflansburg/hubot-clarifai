@@ -1,5 +1,5 @@
 {
-  "name": "hubot-clarifai",
+  "name": "@jaythomas/hubot-clarifai",
   "version": "0.0.0",
   "description": "Hubot script for identifying images using Clarifai",
   "main": "index.js",
