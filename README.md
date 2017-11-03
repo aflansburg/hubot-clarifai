@@ -1,5 +1,8 @@
 # hubot-clarifai
 
+[![Build Status](https://travis-ci.org/gfax/hubot-clarifai.svg?branch=master)](https://travis-ci.org/gfax/hubot-clarifai)
+[![dependencies Status](https://david-dm.org/gfax/hubot-clarifai/status.svg)](https://david-dm.org/gfax/hubot-clarifai)
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development and testing](#development-and-testing)
