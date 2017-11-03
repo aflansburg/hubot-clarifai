@@ -1,10 +1,10 @@
 # hubot-clarifai
 
-![](./images/pug_it_is.png)
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development and testing](#development-and-testing)
+
+![](./images/pug_it_is.png)
 
 A hubot script to recognize images; powered by [Clarifai].
 This is a re-write of [hubot-recognizer](https://github.com/jaythomas/hubot-recognizer) to work with the new Clarifai API.

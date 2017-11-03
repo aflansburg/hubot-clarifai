@@ -17,9 +17,9 @@
   ],
   "author": "Jay Thomas <jay@gfax.ch>",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/jaythomas/hubot-recognizer",
+  "homepage": "https://github.com/gfax/hubot-clarifai",
   "bugs": {
-    "url": "https://github.com/jaythomas/hubot-clarifai/issues"
+    "url": "https://github.com/gfax/hubot-clarifai/issues"
   },
   "scripts": {
     "start": "hubot",
