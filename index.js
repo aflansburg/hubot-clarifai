@@ -6,7 +6,7 @@ const Clarifai = require('clarifai')
 
 module.exports = (robot) => {
 
-  const apiKey = process.env.HUBOT_CLARIFAI_API_KEY
+  const apiKey = 'cabc8e642db646578b364b471de67232'
   if (!apiKey) {
     robot.logger.error('No API key provided for hubot-clarifai... disabling...')
     return
